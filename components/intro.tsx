@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://images.unsplash.com/photo-1697824464826-fcb1369e94cd?auto=format&fit=crop&q=80&w=2316&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="/ProfilePicture.png"
               alt="Ahmed portrait"
               width="192"
               height="192"

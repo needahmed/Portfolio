@@ -6,6 +6,7 @@ import corpcommentImg from "@/public/corpcomment.png";
 
 import AISaaS from "@/public/AI-SaaS.png";
 import ecommerce from "@/public/ecommerce.png";
+import skillsprint from "@/public/skillsprint.png";
 
 export const links = [
   {
@@ -55,6 +56,14 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "SkillSprint",
+    description:
+      "Co-founded and developed a platform providing personalized career recommendations and learning paths to help users achieve their career goals. It leverages AI to analyze user inputs and suggest the most suitable career trajectories.",
+    tags: ["React", "Next.js", "Tailwind", "Python", "Flask", "ether.js"],
+    imageUrl: skillsprint,
+  },
+
+  {
     title: "AI SaaS",
     description:
       "I created a AI SaaS project with capability of generating text, images, music, and videos through AI.",
@@ -71,22 +80,27 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
   "JavaScript",
   "TypeScript",
   "React",
   "Next.js",
   "Node.js",
+  "Solidity",
+  "Rust",
+  "web3.js",
+  "ether.js",
+  "hardhat",
   "Git",
   "Tailwind",
   "Prisma",
   "MySQL",
-  "TablePlus",
-  "PostMan",
+  "Python",
   "C/C++",
   "C#",
-  "Python",
   "Java",
+  "HTML",
+  "CSS",
+  "TablePlus",
+  "PostMan",
   "XML",
 ] as const;
