@@ -58,7 +58,7 @@ export const projectsData = [
   {
     title: "SkillSprint",
     description:
-      "Co-founded and developed a platform providing personalized career recommendations and learning paths to help users achieve their career goals. It leverages AI to analyze user inputs and suggest the most suitable career trajectories.",
+      "Co-founded and developed a platform providing personalized career recommendations through AI and learning paths to help users achieve their career goals.",
     tags: ["React", "Next.js", "Tailwind", "Python", "Flask", "ether.js"],
     imageUrl: skillsprint,
   },
